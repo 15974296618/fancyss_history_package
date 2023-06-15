@@ -3,6 +3,10 @@
 - Fancyss is a project providing tools to across the GFW on asuswrt/merlin based router with software center. 
 - 此项目提供用于asuswrt、asuswrt-merlin为基础的，带软件中心固件（≥384）路由器的科学上网功能。
 
+## 源码
+
+[https://github.com/hq450/fancyss](https://github.com/hq450/fancyss)
+
 ## 目录说明
 
 > * 原适用于380固件的fancyss_arm已经停止维护，更名为fancyss_arm380并存放于legacy目录下
